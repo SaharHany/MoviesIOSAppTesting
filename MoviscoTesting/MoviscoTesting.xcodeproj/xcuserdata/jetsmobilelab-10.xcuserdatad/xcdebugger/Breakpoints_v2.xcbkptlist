@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviscoTesting/HomeViewController.swift"
+            timestampString = "579466553.24607"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviscoTesting/HomeViewController.swift"
+            timestampString = "579466553.246201"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviscoTesting.HomeViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MoviscoTesting.HomeViewController"
+                  moduleName = "MoviscoTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab-10/Documents/Sahar%20Project/MoviscoTest/MoviscoTesting/MoviscoTesting/HomeViewController.swift"
+                  timestampString = "579462734.895964"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviscoTesting.HomeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MoviscoTesting.HomeViewController"
+                  moduleName = "MoviscoTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab-10/Documents/Sahar%20Project/MoviscoTest/MoviscoTesting/MoviscoTesting/HomeViewController.swift"
+                  timestampString = "579462734.898787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviscoTesting.HomeViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MoviscoTesting.HomeViewController&gt;"
+                  moduleName = "MoviscoTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab-10/Documents/Sahar%20Project/MoviscoTest/MoviscoTesting/MoviscoTesting/HomeViewController.swift"
+                  timestampString = "579462734.901361"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviscoTesting.HomeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MoviscoTesting.HomeViewController&gt;"
+                  moduleName = "MoviscoTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab-10/Documents/Sahar%20Project/MoviscoTest/MoviscoTesting/MoviscoTesting/HomeViewController.swift"
+                  timestampString = "579462734.904797"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviscoTesting.HomeViewController.__deallocating_deinit"
+                  moduleName = "MoviscoTesting"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jetsmobilelab-10/Documents/Sahar%20Project/MoviscoTest/MoviscoTesting/MoviscoTesting/HomeViewController.swift"
+                  timestampString = "579462734.907266"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
